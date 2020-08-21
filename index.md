@@ -46,14 +46,14 @@ Lessons focus on conceptual or architectural aspects of Urbit, including technic
 | -- | ---- | ------ | ------- | --- | -- |
 | 0 | 08/24 |  |  | (no lab) |  |
 |  | 08/25 |  |  |  |  |
-|  | 08/26 | 00 | [Prospectus](flow:lesson00-prospectus) |  |  |
+|  | 08/26 | 00 | [Prospectus](./lessons/lesson00-prospectus.md) |  |  |
 |  | 08/27 |  |  |  |  |
-|  | 08/28 | 01 | [Dojo](flow:lesson01-dojo) |  |  |
+|  | 08/28 | 01 | [Dojo](./lessons/lesson01-dojo.md) |  |  |
 |  | 08/29 |  |  |  |  |
 |  | 08/30 |  |  |  |  |
-| 1 | 08/31 | 02 |  | [Azimuth I](flow:lesson02-azimuth-1) |  |
+| 1 | 08/31 | 02 |  | [Azimuth I](./lessons/lesson02-azimuth-1.md) |  |
 |  | 09/01 |  |  |  |  |
-|  | 09/02 | 03 | [Generators](flow:lesson03-generators) |  |  |
+|  | 09/02 | 03 | [Generators](./lessons/lesson03-generators.md) |  |  |
 |  | 09/03 |  |  |  |  |
 |  | 09/04 | 04 | Auras |  |  |
 |  | 09/05 |  |  |  |  |
