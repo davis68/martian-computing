@@ -98,7 +98,7 @@ Since everything in Hoon is a binary tree, these are stored in a certain standar
 
 The arm ultimately reduces to a single value (a noun, so either an atom or a cell).
 
-The following gate accepts an unsigned integer `a` and returns the
+The following gate accepts an unsigned integer `a` and returns two to the power of `a`:
 
 ```hoon
 |=  a=@ud
