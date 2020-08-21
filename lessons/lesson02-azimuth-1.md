@@ -143,7 +143,7 @@ Sigils are not intrinsic to Urbit, but they form part of the metatextual environ
 ![](https://raw.githubusercontent.com/urbit/sigil-js/master/docs/outro.png){: width=100%}
 
 
-##  Further On Down the Road
+##  Further On Up the Road
 
 The Azimuth PKI is quite sophisticated, and the Urbit HD (Hierarchical Deterministic) wallet allows for nuance in point management.  Bridge is used to manage point operations.  We will revisit all three in technical detail in _Azimuth 2_.  We will furthermore examine the internal operations of `azimuth-js` and the Ecliptic contracts.
 
