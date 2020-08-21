@@ -6,7 +6,10 @@
 
 ##  Learning Objectives
 
-{{ indented_include( "lessons/03-generators/objectives.yml",0 ) }}
+- Compose a simple generator and load it from `gen/`.
+- Understand how to pass arguments to and results from gates.
+- Use the Hoon standard library Section 1a, "Basic Arithmetic".
+* Produce a generator for a mathematical calculation.
 
 _Complete everything in this lesson using a fakezod, not your real ship.  That holds true generally for development work._
 
