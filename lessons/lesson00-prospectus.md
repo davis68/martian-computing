@@ -24,7 +24,7 @@ Savvy corporations are careful to avoid vendor lock-in, a dependence on a vendor
 
 **The system is pwned.**  Computers today feel no faster than they did in 2005, and the reason is not to be laid like a wreath on the tomb of Moore's Law.  Software bloat is out of control, and grows more, not less, acute with every new OS version.
 
-![https://twitter.com/Ngnghm/status/1208783229710471168](repo:./img/00-fare.png){: width=50%}
+![https://twitter.com/Ngnghm/status/1208783229710471168](../img/00-fare.png){: width=50%}
 
 For the most part, there are no sufficient incentives for real developers to simplify software rather than make it more complex.  Minimalist software design remains a hobby of hackers and code golfers.
 
@@ -70,7 +70,7 @@ Identity is also dear:  losing a password in a breach can cause at best hours of
 
 Altogether, these flaws in the current system render it unsuitable for building the future[.](https://en.wikipedia.org/wiki/Burrows_Cave)  <!-- egg -->
 
-![](repo:./img/00-mangofarm.png){: width=100%}
+![](../img/00-mangofarm.png){: width=100%}
 
 
 ##  What Urbit Is
@@ -108,17 +108,17 @@ Briefly put, Urbit requires you to have an _Urbit OS_ (which runs your code, sto
 
 **Urbit OS**.  The Urbit OS operates on top of the Nock virtual machine, and broadly consists of Arvo and its vanes.  A schematic representation is frequently used:
 
-![](repo:./img/00-urbit-all.png){: width=25%}
+![](../img/00-urbit-all.png){: width=25%}
 
 At its base, Arvo is an encrypted event log (or equivalently an operating function).  The Nock virtual machine is like Urbit's version of assembler language, and it may in theory be implemented on top of any hardware.  Hoon is Urbit's equivalent of C, a higher-level language with useful macros and APIs for building out software.  Arvo runs atop these definitions.
 
 You can think of Urbit OS as a virtual machine which allows everything upstack to be agnostic to the hardware, and handles everything downstack.  Urbit has sometimes been described as an operating function, and this is what that means.  Everything is implemented as a stateful instance, called a "ship" (see _Urbit ID_ below).
 
-![](repo:./img/00-urbit-exploded.png){: width=50%}
+![](../img/00-urbit-exploded.png){: width=50%}
 
 The vanes provide services:  Ames provides network interactivity, Clay provides filesystem services, Ford provides builds, etc.  On top of these, userspace apps
 
-![](repo:./img/00-arvo-exploded.png){: width=100%}
+![](../img/00-arvo-exploded.png){: width=100%}
 
 We will take a closer look at every part of this system as we move forward through the course.
 
@@ -204,11 +204,9 @@ At the end of the course, we will also circle back around and discuss the most c
 
 - Optional Reading: [Mark Tarver, "The Bipolar Lisp Programmer"](http://marktarver.com/bipolar.html)
 
-### Political Critique
+### Comment
 
-Prior to founding Urbit, Founder Curtis Yarvin pseudonymously composed a number of articles well beyond the pale, and these writings seem to have been taken up by a coterie of unsavory people.  Yarvin's political writings are frankly bizarre and repellent, well beyond the axis of American political discourse.
-
-Our interest and our discussion are technical and independent of the founder of any particular project.  (I find politics to be about as interesting as business and finance, myself:  i.e., not at all.)  And while speaking as a professor I don't endorse Urbit as anything other than an object of study, I'd like to also make it clear that letting me teach this course does not imply University or department promotion or endorsement of Urbit, its founder, its stakeholders, or whatever political or philosophical motivations may underlie its impetus.
+Our interest and our discussion are technical and independent of the founder of any particular project.  And while speaking as a professor I don't endorse Urbit as anything other than an object of study, I'd like to also make it clear that letting me teach this course does not imply University or department promotion or endorsement of Urbit, its founder, its stakeholders, or whatever political or philosophical motivations may underlie its impetus.
 
 A more recent discussion of Urbit distances the platform from "digital feudalism":  "Urbit's distribution and sponsorship hierarchy of galaxies, stars and planets is not designed as a political structure, or even a social structure.  The actual social layer is in userspace -- one layer up."  (This is probably a context-free statement right now, but we'll examine what the distributed hierarchy is in Azimuth 1.)
 
