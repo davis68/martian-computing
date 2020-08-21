@@ -1,7 +1,7 @@
 #   CS 498MC • Martian Computing
 #### Neal Davis • Department of Computer Science • University of Illinois
 
-![](repo:./img/mars-landscape-hero.png)
+![](./img/mars-landscape-hero.png)
 
 The underlying infrastructure of modern networked computing—namely Unix and its derivatives—is approaching fifty years of age.  What will come to replace it?  A strong competitor is the clean-slate “operating function” approach of Urbit.  Jocosely branded as “computing for Martians,” Urbit provides a fresh and updated vision of what Internet computing could come to look like in future years.  Featuring end-to-end encryption and true peer-to-peer routing built on a network-first operating system, Urbit fosters decentralized digital societies and stable user identities.
 
@@ -31,14 +31,14 @@ My target audience for the course consists of graduate students in computer scie
 
 ##  Access
 
-![](repo:./img/mars-pathfinder-hero.png)
+![](./img/mars-pathfinder-hero.png)
 
 The use of Urbit requires an [Urbit ID](https://urbit.org/using/install/).  While I intend to arrange for students participating in the course to obtain an Urbit ID as part of their enrollment, you can also purchase an ID on a third-party site like [urbit.live](https://urbit.live) or [OpenSea](https://opensea.io/).  You can also use a transient ID (called a "comet") as a permanent ID; these are free and can be generated on your own machine.
 
 
 ##  Agenda
 
-![](repo:./img/mars-olympus-mons-hero.png)
+![](./img/mars-olympus-mons-hero.png)
 
 Lessons focus on conceptual or architectural aspects of Urbit, including technical discussions of Urbit’s behavior and internals.  Labs are hands-on tutorials to familiarize students with operations and language features.
 
