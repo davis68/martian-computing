@@ -55,19 +55,19 @@ Lessons focus on conceptual or architectural aspects of Urbit, including technic
 |  | 09/01 |  |  |  |  |
 |  | 09/02 | 03 | [Generators](./lessons/lesson03-generators.md) |  |  |
 |  | 09/03 |  |  |  |  |
-|  | 09/04 | 04 | Auras |  |  |
+|  | 09/04 | 04 | [Auras](./lessons/lesson04-aura.md) |  |  |
 |  | 09/05 |  |  |  |  |
 |  | 09/06 |  |  |  |  |
 | 2 | 09/07 |  |  | (no lab) |  |
 |  | 09/08 |  |  |  |  |
-|  | 09/09 | 05 | Syntax |  |  |
+|  | 09/09 | 05 | [Syntax](./lessons/lesson05-syntax.md) |  |  |
 |  | 09/10 |  |  |  |  |
-|  | 09/11 | 06 | Cores |  | `mp0` |
+|  | 09/11 | 06 | [Cores](./lessons/lesson06-cores.md) |  | `mp0` |
 |  | 09/12 |  |  |  |  |
 |  | 09/13 |  |  |  |  |
-| 3 | 09/14 | 07 |  | `%say` Generators |  |
+| 3 | 09/14 | 07 |  | [`%say` Generators](./lessons/lesson07-say-generators.md) |  |
 |  | 09/15 |  |  |  |  |
-|  | 09/16 | 08 | Subject-Oriented Programming |  |  |
+|  | 09/16 | 08 | [Subject-Oriented Programming](./lessons/lesson08-subject-oriented-programming.md) |  |  |
 |  | 09/17 |  |  |  |  |
 |  | 09/18 | 09 | Clay I |  |  |
 |  | 09/19 |  |  |  |  |
