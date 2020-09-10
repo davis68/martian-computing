@@ -137,6 +137,30 @@ This transparent introspection is extremely powerful, and you'll often see it em
 
 - Reading: [Tlon Corporation, "Doors"](https://urbit.org/docs/tutorials/hoon/hoon-school/doors/)
 
+### Custom Samples
+
+How do we create a gate with a custom sample?  `|:` barcol yields a gate with a specific sample (not the default of `~`).
+
+```hoon
+++  mul
+  |:  [a=`@`1 b=`@`1]  ^-  @
+  =+  c=0
+  |-
+  ?:  =(0 a)  c
+  $(a (dec a), c (add b c))
+```
+
+Why does this matter?  Sometimes you need an accumulator against a particular starting value:
+
+```hoon
+> (roll `(list @ud)`~[1 2 3 4 5] mul)
+120
+> (roll `(list @ud)`~[1 2 3 4 5] |=([a=@ b=@] (mul a b)))
+0
+> (roll `(list @ud)`~[1 2 3 4 5] |:([a=`@`1 b=`@`1] (mul a b)))
+120
+```
+
 
 ##  Irregular Runic Forms
 
