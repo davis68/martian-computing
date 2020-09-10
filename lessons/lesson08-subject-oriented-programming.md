@@ -104,6 +104,7 @@ A door is the most general case of a function in Hoon.  It packages a core's pay
 
 Since every door has a standard structure, you can introspect inside of the door to see how parts of it work:
 
+<!-- {% raw %} -->
 ```hoon
 > +1:add
 <1.vwd {{a/@ b/@} <41.mac 1.ane $141>}>
@@ -116,6 +117,7 @@ Since every door has a standard structure, you can introspect inside of the door
 > +7:add
 <41.mac 1.ane $141>
 ```
+<!-- {% endraw %} -->
 
 `+1:add` returns the entire door:  in this case, it actually shows a hash of the elements and the type signature of expected inputs `{a/@ b/@}`.
 
