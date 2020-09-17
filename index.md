@@ -69,12 +69,12 @@ Lessons focus on conceptual or architectural aspects of Urbit, including technic
 |  | 09/15 |  |  |  |  |
 |  | 09/16 | 08 | [Subject-Oriented Programming](./lessons/lesson08-subject-oriented-programming.md) |  |  |
 |  | 09/17 |  |  |  |  |
-|  | 09/18 | 09 | Clay I |  |  |
+|  | 09/18 | 09 | [Clay I](./lessons/lesson09-clay-1.md) |  |  |
 |  | 09/19 |  |  |  |  |
 |  | 09/20 |  |  |  |  |
-| 4 | 09/21 | 10 |  | Libraries |  |
+| 4 | 09/21 | 10 |  | [Libraries](./lessons/lesson10-libraries.md) |  |
 |  | 09/22 |  |  |  |  |
-|  | 09/23 | 11 | Ford I |  |  |
+|  | 09/23 | 11 | [Ford I](./lessons/lesson11-ford-1.md) |  |  |
 |  | 09/24 |  |  |  |  |
 |  | 09/25 | 12 | `%ask` Generators |  | `mp1` |
 |  | 09/26 |  |  |  |  |
@@ -90,7 +90,7 @@ Lessons focus on conceptual or architectural aspects of Urbit, including technic
 |  | 10/06 |  |  |  |  |
 |  | 10/07 | 17 | Gall I |  |  |
 |  | 10/08 |  |  |  |  |
-|  | 10/09 | 18 | (buffer lecture) |  | `mp2` |
+|  | 10/09 | 18 | Kernel |  | `mp2` |
 |  | 10/10 |  |  |  |  |
 |  | 10/11 |  |  |  |  |
 | 7 | 10/12 | 19 |  | Data & Text Parsing |  |
