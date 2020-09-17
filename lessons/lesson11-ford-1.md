@@ -34,7 +34,7 @@ Urbit's build system, Ford, hews to this standard rather well.
 
 The build system formerly known as Ford (and now the `++ford` arm of Clay) has had one of the most productive and turbulent histories of any of the major vanes of Arvo (along with Ames and Clay).  Indeed, Ford's evolution over time is an excellent demonstration of the virtues of a cooling operating system:  Ford has become smaller, leaner, and more expressive even as it has shed complexity.
 
-Ford is responsible for
+Ford is responsible for producing the Nock cores that constitute Arvo.  "Ford is capable of sequencing generic asynchronous computations. Its uses include linking source files into programs, assembling live-updating websites, and performing file-type conversions."
 
 
 ##  OTAs
