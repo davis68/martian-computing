@@ -4,7 +4,10 @@
 
 ##  Learning Objectives
 
-{{ indented_include( "lessons/12-debugging/objectives.yml",0 ) }}
+-   Learn principles for debugging Hoon code.
+-   Enumerate the kinds of errors `mint`, `nest`, and other checks produce.
+-   Grade code samples according to the standard Tlon A,B,C,D,E scheme.
+-   Produce and annotate code samples to each grade above C.
 
 
 ##  An Ontology of Error
