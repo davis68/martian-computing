@@ -4,7 +4,7 @@
 
 ##  Learning Objectives
 
-{{ indented_include( "lessons/13-ask-generators/objectives.yml",0 ) }}
+-   Create an `%ask` generator.
 
 
 ##  `%ask` Generators
