@@ -76,10 +76,10 @@ Lessons focus on conceptual or architectural aspects of Urbit, including technic
 |  | 09/22 |  |  |  |  |
 |  | 09/23 | 11 | [Ford I](./lessons/lesson11-ford-1.md) |  |  |
 |  | 09/24 |  |  |  |  |
-|  | 09/25 | 12 | [`%ask` Generators](./lessons/lesson12-ask.md) |  | `mp1` |
+|  | 09/25 | 12 | [Debugging Hoon](./lessons/lesson12-debugging.md) |  | `mp1` |
 |  | 09/26 |  |  |  |  |
 |  | 09/27 |  |  |  |  |
-| 5 | 09/28 | 13 |  | [Debugging Hoon](./lessons/lesson13-debugging.md) |  |
+| 5 | 09/28 | 13 |  | [`%ask` Generators](./lessons/lesson13-ask.md) |  |
 |  | 09/29 |  |  |  |  |
 |  | 09/30 | 14 | [Types & Molds](./lessons/lesson14-typechecking.md) |  |  |
 |  | 10/01 |  |  |  |  |
