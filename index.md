@@ -95,7 +95,7 @@ Lessons focus on conceptual or architectural aspects of Urbit, including technic
 |  | 10/11 |  |  |  |  |
 | 7 | 10/12 | 19 |  | [Data & Text Parsing](./lessons/lesson19-text-parsing.md) |  |
 |  | 10/13 |  |  |  |  |
-|  | 10/14 | 20 | [Gall II](./lessons/lesson20-gall-2.md) |  |  |
+|  | 10/14 | 20 | [Ames](./lessons/lesson20-ames.md) |  |  |
 |  | 10/15 |  |  |  |  |
 |  | 10/16 | 21 | [Behn](./lessons/lesson21-behn.md) |  |  |
 |  | 10/17 |  |  |  |  |
@@ -107,7 +107,7 @@ Lessons focus on conceptual or architectural aspects of Urbit, including technic
 |  | 10/23 | 24 | [Urbit Foundation](./lessons/lesson24-foundation.md) |  | `mp3` |
 |  | 10/24 |  |  |  |  |
 |  | 10/25 |  |  |  |  |
-| 9 | 10/26 | 25 |  | (buffer lab) |  |
+| 9 | 10/26 | 25 |  | Gall II |  |
 |  | 10/27 |  |  |  |  |
 |  | 10/28 | 26 | Gall III |  |  |
 |  | 10/29 |  |  |  |  |
