@@ -1,6 +1,6 @@
 #   Entering the Dojo
 
-![](../img/01-header-goddard.png){: width=100%}
+![](../img/01-header-goddard.png)
 
 ##  Learning Objectives
 
@@ -34,7 +34,7 @@ To initialize your filesystem synchronization, run `|mount %` once.  This create
 
 To synchronize your Unix-side changes to Clay, run `|commit %home`.
 
-![](../img/01-header-goddard-1.png){: width=100%}
+![](../img/01-header-goddard-1.png)
 
 
 ##  Using Built-In Tools
@@ -141,7 +141,7 @@ This gate accepts a single input argument `end` of type unsigned decimal integer
 
 Hoon takes some getting used to.  The upside is that similar kinds of operations are expressed using similar runes; the downside is that learning to read the runes takes time.
 
-![](../img/01-header-goddard-2.png){: width=100%}
+![](../img/01-header-goddard-2.png)
 
 
 ##  Setting Up a Real Urbit ID

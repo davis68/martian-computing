@@ -41,7 +41,7 @@ In total there are $2^{128}$ addressable points, of which the vast majority are 
 
 The initial allocation of galaxies served the expedient of funding Tlon to develop Urbit, but the 256 galaxies are in the hands of many different kinds of people besides investors.
 
-![](../img/02-lana.png){: width=100%}
+![](../img/02-lana.png)
 
 Like Lana sings (["Before we go out, what's your address?"](https://www.youtube.com/watch?v=sxDdEPED0h8)), we in principle care about address when dealing with a strange star or planet for the first time.  A reputation system is under development, but hasn't yet seemed to be necessary.  This is called [`Censures`](https://urbit.org/docs/glossary/censure/).  Plus, at this point, identity _is_ fairly cheap, abundant if not infinite.  (Notably, not so cheap that spammers can thrive.)
 
@@ -106,7 +106,7 @@ The sale of galaxies formed a role in initially funding Urbit, but to prevent to
 
 Much of the Urbit address space is locked and unspawnable to provide an artificial brake on supply and prevent overrunning the available address space.  See "The Value of Urbit Address Space, Part 3" for extensive details on star and planet limitations and the associated Ethereum smart contracts.
 
-![](https://media.urbit.org/site/posts/essays/value-of-address-space-pt3-graph1.png){: width=100%}
+![](https://media.urbit.org/site/posts/essays/value-of-address-space-pt3-graph1.png)
 
 If a star ceases to provide peer-to-peer lookup services and software updates, a planet may find itself in a pickle.  "Dark stars" are stars which have spawned daughter planets but are not running anymore.  To mitigate this situation, planets can switch from one sponsoring star and move to another.
 
@@ -140,7 +140,7 @@ Sigils are not intrinsic to Urbit, but they form part of the metatextual environ
 - Optional Reading: [Gavin Atkinson `~ridlur-figbud`, "Creating Sigils"](https://urbit.org/blog/creating-sigils/)
 - Code: [`sigil-js`](https://github.com/urbit/sigil-js)
 
-![](https://raw.githubusercontent.com/urbit/sigil-js/master/docs/outro.png){: width=100%}
+![](https://raw.githubusercontent.com/urbit/sigil-js/master/docs/outro.png)
 
 
 ##  Further On Up the Road

@@ -1,6 +1,6 @@
 #   Type in Urbit
 
-![](../img/14-header-galileo-1.png){: width=100%}
+![](../img/14-header-galileo-1.png)
 
 ##  Learning Objectives
 
@@ -16,7 +16,7 @@ Molds are used to check type or produce certain kinds of types, whereas mold bui
 
 Molds are the primary way for enforcing and processing type structure in Urbit.
 
-![](../img/14-header-galileo-2.png){: width=100%}
+![](../img/14-header-galileo-2.png)
 
 There are some standard mold operations:
 
@@ -61,7 +61,7 @@ I recommend that you review section Vases in Cores as well.
 
 ##  Dry Gates
 
-![](../img/14-header-galileo-3.png){: width=100%}
+![](../img/14-header-galileo-3.png)
 
 > A dry gate (also simply a gate) is the kind that you're already familiar with by now: a one-armed core with a sample. A wet gate is also a one-armed core with a sample, but there is a difference. With a dry gate, when you pass in an argument and the code gets compiled, the type system will try to cast to the type specified by the gate; if you pass something that does not fit in the specified type, for example a cord instead of a cell you will get a nest failure. On the other hand, when you pass arguments to a wet gate, their types are preserved and type analysis is done at the definition site of the gate rather than the call site.
 
@@ -86,7 +86,7 @@ Arguments made to dry gates must nest.  More generally, dry cores must have nest
 
 > With a dry gate, when you pass in an argument and the code gets compiled, the type system will try to cast to the type specified by the gate; if you pass something that does not fit in the specified type, for example a `cord` instead of a `cell` you will get a nest failure.
 
-![](../img/14-header-galileo-4.png){: width=100%}
+![](../img/14-header-galileo-4.png)
 
 > The type check for each arm in a dry core can be understood as implementing a version of the “Liskov substitution principle.”  The arm works for some (originally defined) payload type `P`.  Payload type `Q` nests under `P`.  Therefore the arm works for `Q` as well, though for type inference purposes the payload is treated as a `P`.  The inferred type of the arm is based on the assumption that it's evaluated with a subject type exactly like that of its original parent core—i.e., whose payload is of type `P`.
 
@@ -106,6 +106,6 @@ In practice, gold and iron cores are commonly seen; I've observed far fewer zinc
 
 We will discuss wet gates in Polymorphism.
 
-![](../img/14-header-galileo-5.png){: width=100%}
+![](../img/14-header-galileo-5.png)
 
 _The Moon is made of cheese, and cheese is made from mold.  These are Galileo's drawings of the Moon from his early telescope experiments._

@@ -1,6 +1,6 @@
 #   Subject-Oriented Programming
 
-![](../img/08-schiaparelli-01.png){: width=100%}
+![](../img/08-schiaparelli-01.png)
 
 ##  Learning Objectives
 
@@ -96,7 +96,7 @@ The current subject (Arvo) is `.`.  (Most of these values are actually hashes st
 
 ##  More Common Patterns
 
-![](../img/08-schiaparelli-01.png){: width=100%}
+![](../img/08-schiaparelli-01.png)
 
 A battery is part of a core, of course:  it contains the code to be executed.  (Analogously with object-oriented programming, it would be the methods.)  Batteries are frequently set up with `|%` barcen although other `|` bar runes may be used.  Typically, each arm of a battery is "dry," meaning that it is type-specific, although there are also "wet" cores which possess type genericity.
 
@@ -258,4 +258,4 @@ From the [Precepts](https://urbit.org/blog/precepts-discussion/):
 >
 > This property is worth fighting for. It's the whole reason Urbit was written. New Urbit programmers are instinctively distrustful of anything below them and code defensively and fearfully. They must learn that it's all drastically simpler and more legible than they're used to. It's still hard, but you can actually make progress. To do so, you have to stand up straight, so you can get a firm footing on the ground. Keep your chin up and your shoulders back, and adopt the posture of a conqueror. When something doesn't work right, don't retreat into your shell of safety and control — fix it. The forces of chaos are always lurking, but their victory isn't inevitable. It's all on the line, so code with abandon.
 
-![](../img/08-mars-map.png){: width=100%}
+![](../img/08-mars-map.png)

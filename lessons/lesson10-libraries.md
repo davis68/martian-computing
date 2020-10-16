@@ -1,6 +1,6 @@
 #   Libraries
 
-![](../img/10-header-stars-3.png){: width=100%}
+![](../img/10-header-stars-3.png)
 
 ##  Learning Objectives
 
@@ -213,7 +213,7 @@ Most of the time, `++expect-eq` is the only arm used.  `++expect-fail` works a b
 
 - Optional Reading: [Tlon Corporation, "Unit Testing with Ford"](https://web.archive.org/web/20200614210451/https://urbit.org/docs/tutorials/hoon/test-sets/)
 
-![](../img/10-header-stars-2.png){: width=100%}
+![](../img/10-header-stars-2.png)
 
 
 ##  Hoon Style
@@ -258,4 +258,4 @@ How would you rewrite these code snippets in fully-compliant style?
 
 > Don't embed fear in your code.  Don't design systems around your fear because you don't have confidence in your system.  Tools should motivate the mind, not subjugate it.  (Aaron Hsu)
 
-![](../img/10-header-stars-1.png){: width=100%}
+![](../img/10-header-stars-1.png)

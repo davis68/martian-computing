@@ -1,6 +1,6 @@
 #   Hoon Syntax
 
-![Robert McCall, Rendition of Apollo–Soyuz Encounter](../img/05-header-mccall-1.png){: width=100%}
+![Robert McCall, Rendition of Apollo–Soyuz Encounter](../img/05-header-mccall-1.png)
 
 ##  Learning Objectives
 
@@ -129,7 +129,7 @@ Every structure being a binary tree, certain common structures arise which conta
 - Optional Reading: [Tlon Corporation, "Tree Addressing"](https://urbit.org/docs/reference/library/1b/) (to get the flavor of accessing and manipulating trees)
 - Optional Reading: [Tlon Corporation, "The Subject and Its Legs"](https://urbit.org/docs/tutorials/hoon/the-subject-and-its-legs/), section "Lark Expressions"
 
-![Robert McCall, Rendition of Apollo–Soyuz Encounter](../img/05-header-mccall-2.png){: width=100%}
+![Robert McCall, Rendition of Apollo–Soyuz Encounter](../img/05-header-mccall-2.png)
 
 
 ##  The Subject
@@ -167,11 +167,11 @@ The developers of Urbit have adopted concise and consistently-patterned ways of 
 
 When you are looking up a rune in the docs, you should search "kethep" instead of "^-".
 
-![](../img/05-hoon-pronunciation.png){: width=100%}
+![](../img/05-hoon-pronunciation.png)
 
 (There is [a chart in the docs](https://urbit.org/docs/tutorials/hoon/hoon-syntax/) which has an alphabetically-ordered equivalent if you prefer.)
 
-![Robert McCall, Rendition of Apollo–Soyuz Encounter](../img/05-header-mccall-4.png){: width=100%}
+![Robert McCall, Rendition of Apollo–Soyuz Encounter](../img/05-header-mccall-4.png)
 
 
 ##  Elements of Hoon Style
@@ -221,4 +221,4 @@ Hoon code—or rather the Nock code produced by Hoon—can be rather inefficient
 - Reading: [Ted Blackman `~rovnys-ricfer`, "Why Hoon?"](https://urbit.org/blog/why-hoon/), grep for "jetted"
 - Reading: [`xkpastel`, "Are Jets a Good Idea?" (Lambda the Ultimate)](http://lambda-the-ultimate.org/node/5482)
 
-![Robert McCall, Rendition of Apollo–Soyuz Encounter](../img/05-header-mccall-3.png){: width=100%}
+![Robert McCall, Rendition of Apollo–Soyuz Encounter](../img/05-header-mccall-3.png)

@@ -1,6 +1,6 @@
 #   Ford 1
 
-![](../img/11-header-nasa-1.png){: width=100%}
+![](../img/11-header-nasa-1.png)
 
 >Computations from inputs to outputs constitute a build graph: a directed acyclic graph where individual nodes are called actions, and arcs are called dependencies. The signals are called artifacts, and, by extension, the inputs to the action that generate one of them are also called its dependencies. (François-René Rideau (Faré), ["Build Systems"](https://ngnghm.github.io/blog/2016/04/26/chapter-9-build-systems/))
 
@@ -30,7 +30,7 @@ Urbit's build system, Ford, hews to this standard rather well.
 
 ##  The System Formerly Known as Ford
 
-![](../img/11-header-nasa-2.png){: width=100%}
+![](../img/11-header-nasa-2.png)
 
 The build system formerly known as Ford (and now the `++ford` arm of Clay) has had one of the most productive and turbulent histories of any of the major vanes of Arvo (along with Ames and Clay).  Indeed, Ford's evolution over time is an excellent demonstration of the virtues of a cooling operating system:  Ford has become smaller, leaner, and more expressive even as it has shed complexity.
 
@@ -128,4 +128,4 @@ One way to include an error message in your code is the [`~_` sigcab](https://ur
 
 When you compose your own library functions, consider include error messages for likely failure points.  We'll see more of these as we build `%ask` generators.
 
-![](../img/11-header-nasa-3.png){: width=100%}
+![](../img/11-header-nasa-3.png)

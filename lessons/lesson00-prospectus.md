@@ -70,12 +70,12 @@ Identity is also dear:  losing a password in a breach can cause at best hours of
 
 Altogether, these flaws in the current system render it unsuitable for building the future[.](https://en.wikipedia.org/wiki/Burrows_Cave)  <!-- egg -->
 
-![](../img/00-mangofarm.png){: width=100%}
+![](../img/00-mangofarm.png)
 
 
 ##  What Urbit Is
 
-![](https://raw.githubusercontent.com/sigilante/images/master/arthur.png){: width=100%}
+![](https://raw.githubusercontent.com/sigilante/images/master/arthur.png)
 
 Let me offer three quotes to explain what Urbit is:
 
@@ -118,7 +118,7 @@ You can think of Urbit OS as a virtual machine which allows everything upstack t
 
 The vanes provide services:  Ames provides network interactivity, Clay provides filesystem services, Ford provides builds, etc.  On top of these, userspace apps
 
-![](../img/00-arvo-exploded.png){: width=100%}
+![](../img/00-arvo-exploded.png)
 
 We will take a closer look at every part of this system as we move forward through the course.
 

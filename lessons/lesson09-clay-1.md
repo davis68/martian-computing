@@ -1,6 +1,6 @@
 #   Clay 1
 
-![](../img/09-header-stars-1.png){: width=100%}
+![](../img/09-header-stars-1.png)
 
 ##  Learning Objectives
 
@@ -114,7 +114,7 @@ Your ship has other desks as well, notably `%kids`.  You can see how to create a
 
 ##  Accessing Files and Desks
 
-![](../img/09-header-stars-2.png){: width=100%}
+![](../img/09-header-stars-2.png)
 
 Clay, as I mentioned, is in fact a _global_ file system.  That is, if you have proper permissions to access the data in question, you can refer transparently to data on _anyone's_ ship.  The beak thus prefixes any path you refer to.  As `%` refers to your current location, you can refer to a file `/~sampel-palnet/home/web/output.txt` (in Unix terms) as `%/web/output/txt` (in Clay terms).
 
@@ -226,4 +226,4 @@ Now, it's time to reframe everything in your basic working model of Clay-as-file
 
 Clay serves as a single-level file store with no distinction between storage and memory.  All memory exported to Clay may be regarded as persistent.  This is critical to understanding Gall and the userspace apps when we come to that vane.
 
-![](../img/09-header-stars-3.png){: width=100%}
+![](../img/09-header-stars-3.png)

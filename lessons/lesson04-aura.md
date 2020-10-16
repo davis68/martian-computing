@@ -1,6 +1,6 @@
 #   Auras (A Type System)
 
-![](../img/02-header-gemini-1.png){: width=100%}
+![](../img/02-header-gemini-1.png)
 
 ##  Learning Objectives
 
@@ -147,7 +147,7 @@ Aura and type mismatches are a common error source.
 
 ##  Common Patterns
 
-![](../img/02-header-gemini-2.png){: width=100%}
+![](../img/02-header-gemini-2.png)
 
 We are going to dive more deeply into syntax in the next lesson (Syntax), but for now there are some common patterns in Hoon which you should get used to seeing:
 
@@ -244,4 +244,4 @@ Capital letters at the end of auras indicate the bitwidth in binary powers of tw
 | `@uxG` | unsigned 64-bit hexadecimal |
 | `@uvJ` | unsigned 512-bit integer with base-32 representation (frequently used for entropy) |
 
-![](../img/02-header-gemini-3.png){: width=100%}
+![](../img/02-header-gemini-3.png)

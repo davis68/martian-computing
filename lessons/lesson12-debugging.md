@@ -1,6 +1,6 @@
 #   Debugging Hoon
 
-![](../img/12-header-voyager-1.png){: width=100%}
+![](../img/12-header-voyager-1.png)
 
 ##  Learning Objectives
 
@@ -31,7 +31,7 @@ An exception is a manifestation of unexpected behavior which can give rise to a 
 
 ##  Error Sources
 
-![](../img/12-header-voyager-2.png){: width=100%}
+![](../img/12-header-voyager-2.png)
 
 Let's enumerate the errors we know about at this point:
 
@@ -113,4 +113,4 @@ But don't produce A code on the first pass!  Let the code mature for a while at 
 
 - Reading: [Tlon Corportion, "Hoon Style Guide"](https://urbit.org/docs/tutorials/hoon/hoon-school/style/), section "Grading"
 
-![](../img/12-header-voyager-3.png){: width=100%}
+![](../img/12-header-voyager-3.png)

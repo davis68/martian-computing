@@ -1,6 +1,6 @@
 #   `%say` Generators
 
-![](../img/07-header-apollo-1.png){: width=100%}
+![](../img/07-header-apollo-1.png)
 
 ##  Learning Objectives
 
@@ -61,7 +61,7 @@ Time in Urbit will be covered in Zuse.
 
 ### Entropy
 
-![](../img/07-header-apollo-2.png){: width=100%}
+![](../img/07-header-apollo-2.png)
 
 What is _entropy_?  [Computer entropy](https://en.wikipedia.org/wiki/Entropy_%28computing%29) is a hardware or behavior-based collection of device-independent randomness.  For instance, "The Linux kernel generates entropy from keyboard timings, mouse movements, and IDE timings and makes the random character data available to other operating system processes through the special files `/dev/random` and `/dev/urandom`."
 
@@ -266,4 +266,4 @@ The traffic light example is furthermore an excellent prelude to our entrée to 
 - Reading: [Tlon Corporation, "Hoon Workbook:  Magic 8-Ball"](https://urbit.org/docs/tutorials/hoon/workbook/eightball/)
 - Reading: [Tlon Corporation, "Hoon Workbook:  Traffic Light"](https://urbit.org/docs/tutorials/hoon/workbook/traffic-light/)
 
-![](../img/07-header-apollo-3.png){: width=100%}
+![](../img/07-header-apollo-3.png)

@@ -1,6 +1,6 @@
 #   The Standard Library
 
-![](../img/15-header-warroom-top.png){: width=100%}
+![](../img/15-header-warroom-top.png)
 
 ##  Learning Objectives
 
@@ -9,7 +9,7 @@
 
 ##  Standard Operations
 
-![](../img/15-header-warroom-bottom.png){: width=100%}
+![](../img/15-header-warroom-bottom.png)
 
 Any useful programming language exposes a standard library:  a set of tools and manipulations which are exposed to or importable for any program to utilize immediately.  The Urbit OS standard library lives split between three aspects:  Hoon itself, Arvo, and Zuse.
 
@@ -19,7 +19,7 @@ Now, there's a bit of a challenge in sorting out which gates and molds come from
 
 ##  Hoon
 
-![](../img/15-header-missiles.png){: width=100%}
+![](../img/15-header-missiles.png)
 
 Broadly speaking, almost all of the functions and tools you've used up until today—with the exception of some of the Clay operations involved `++arch`—have been part of Hoon only.
 
@@ -82,7 +82,7 @@ You can get a notion of the kind of processing available for moves:
 
 ##  Zuse
 
-![](../img/15-header-crm114.png){: width=100%}
+![](../img/15-header-crm114.png)
 
 Zuse is also a major component of the standard library for Urbit.  It sits midway on the subject stack, after the Hoon parser and Arvo itself, but before the vanes and the userspace apps.  The goal of Zuse is to provide a minimalist set of conventional operations on cores and the like.
 
@@ -121,4 +121,4 @@ There are some cryptography routines, time parsing, and other utilities as well.
 
 - Optional Reading: [Tlon Corporation, `zuse.hoon`](https://github.com/urbit/urbit/blob/master/pkg/arvo/sys/zuse.hoon)
 
-![](../img/15-header-turgidson.png){: width=100%}
+![](../img/15-header-turgidson.png)

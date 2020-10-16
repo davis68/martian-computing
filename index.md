@@ -86,25 +86,25 @@ Lessons focus on conceptual or architectural aspects of Urbit, including technic
 |  | 10/02 | 15 | [Standard Library](./lessons/lesson15-stdlib.md) |  |  |
 |  | 10/03 |  |  |  |  |
 |  | 10/04 |  |  |  |  |
-| 6 | 10/05 | 16 |  | Common Containers |  |
+| 6 | 10/05 | 16 |  | [Common Containers](./lessons/lesson16-containers.md) |  |
 |  | 10/06 |  |  |  |  |
-|  | 10/07 | 17 | Gall I |  |  |
+|  | 10/07 | 17 | [Gall I](./lessons/lesson17-gall-1.md) |  |  |
 |  | 10/08 |  |  |  |  |
-|  | 10/09 | 18 | Kernel |  | `mp2` |
+|  | 10/09 | 18 | [Kernel](./lessons/lesson18-kernel.md) |  | `mp2` |
 |  | 10/10 |  |  |  |  |
 |  | 10/11 |  |  |  |  |
-| 7 | 10/12 | 19 |  | Data & Text Parsing |  |
+| 7 | 10/12 | 19 |  | [Data & Text Parsing](./lessons/lesson19-text-parsing.md) |  |
 |  | 10/13 |  |  |  |  |
-|  | 10/14 | 20 | Gall II |  |  |
+|  | 10/14 | 20 | [Gall II](./lessons/lesson20-gall-2.md) |  |  |
 |  | 10/15 |  |  |  |  |
-|  | 10/16 | 21 | Behn |  |  |
+|  | 10/16 | 21 | [Behn](./lessons/lesson21-behn.md) |  |  |
 |  | 10/17 |  |  |  |  |
 |  | 10/18 |  |  |  |  |
-| 8 | 10/19 | 22 |  | Clay II |  |
+| 8 | 10/19 | 22 |  | [Clay II](./lessons/lesson22-clay-2.md) |  |
 |  | 10/20 |  |  |  |  |
-|  | 10/21 | 23 | Polymorphism I |  |  |
+|  | 10/21 | 23 | [Polymorphism](./lessons/lesson23-polymorphism.md) |  |  |
 |  | 10/22 |  |  |  |  |
-|  | 10/23 | 24 | Polymorphism II |  | `mp3` |
+|  | 10/23 | 24 | [Urbit Foundation](./lessons/lesson24-foundation.md) |  | `mp3` |
 |  | 10/24 |  |  |  |  |
 |  | 10/25 |  |  |  |  |
 | 9 | 10/26 | 25 |  | (buffer lab) |  |
@@ -175,4 +175,3 @@ Lessons focus on conceptual or architectural aspects of Urbit, including technic
 | `mp5` | Write a full library with testing suite |
 | `mp6` | Decompile Nock code |
 | `bonus` | A proposed scoped project, such as writing a jet.  (See below.) |
-

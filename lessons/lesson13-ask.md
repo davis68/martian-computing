@@ -1,6 +1,6 @@
 #   `%ask` Generators
 
-![](../img/13-header-jupiter.png){: width=100%}
+![](../img/13-header-jupiter.png)
 
 ##  Learning Objectives
 
@@ -9,7 +9,7 @@
 
 ##  `%ask` Generators
 
-![](../img/13-header-saturn.png){: width=100%}
+![](../img/13-header-saturn.png)
 
 We use `%ask` generators to accept user input during the operation of the program, much like `input` or `scanf` in other languages.
 
@@ -55,7 +55,7 @@ New runes?  New runes:
 
 You've seen `tang` and `leaf` before in Ford 1 when we talked about producing error messages.
 
-![](../img/13-header-uranus.png){: width=100%}
+![](../img/13-header-uranus.png)
 
 ### `sole-result`
 
@@ -71,4 +71,4 @@ You are primarily interested in employing `++print`, `++prompt`, and `++produce`
 
 - Reading: [Tlon Corporation, "Generators"](https://urbit.org/docs/tutorials/hoon/hoon-school/generators/), section "`%ask` Generators"
 
-![](../img/13-header-neptune.png){: width=100%}
+![](../img/13-header-neptune.png)
