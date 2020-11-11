@@ -21,9 +21,9 @@ In this lesson, we are going to talk about how Arvo actually gets running on the
 
 The following discussion relies on a few definitions we haven't seen before:
 
-- `king`:  the Arvo system running atop the binary
+- `king`:  the binary event log interfacing Unix with Arvo
 - [`pill`](https://urbit.org/docs/glossary/pill/):  a specific bootstrap sequence, a log of events to create Arvo and vanes; “a serialized, declarative set of steps to initialize Arvo”
-- `serf`:  the binary daemon (including jets)
+- `serf`:  the binary daemon running Nock (including jets)
 
 Three kinds of pills matter:
 
