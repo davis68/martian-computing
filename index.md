@@ -107,32 +107,32 @@ Lessons focus on conceptual or architectural aspects of Urbit, including technic
 |  | 10/23 | 24 | [Urbit Foundation](./lessons/lesson24-foundation.md) |  | `mp3` |
 |  | 10/24 |  |  |  |  |
 |  | 10/25 |  |  |  |  |
-| 9 | 10/26 | 25 |  | Gall II |  |
+| 9 | 10/26 | 25 |  | [Gall II](./lessons/lesson25-gall-2.md) |  |
 |  | 10/27 |  |  |  |  |
-|  | 10/28 | 26 | Gall III |  |  |
+|  | 10/28 | 26 | [Gall III](./lessons/lesson26-gall-3.md) |  |  |
 |  | 10/29 |  |  |  |  |
-|  | 10/30 | 27 | Ames |  |  |
+|  | 10/30 | 27 | [Ames](./lessons/lesson27-ames.md) |  |  |
 |  | 10/31 |  |  |  |  |
 |  | 11/01 |  |  |  |  |
-| 10 | 11/02 | 28 |  | Eyre & Iris |  |
+| 10 | 11/02 | 28 |  | [Eyre & Iris]((./lessons/lesson28-eyre-iris.md)) |  |
 |  | 11/03 |  |  |  |  |
-|  | 11/04 | 29 | Gall IV |  |  |
+|  | 11/04 | 29 | [Gall IV](./lessons/lesson29-gall-4-communication.md) |  |  |
 |  | 11/05 |  |  |  |  |
-|  | 11/06 | 30 | Boot Process |  | `mp4` |
+|  | 11/06 | 30 | [Boot Process](./lessons/lesson30-boot-process.md) |  | `mp4` |
 |  | 11/07 |  |  |  |  |
 |  | 11/08 |  |  |  |  |
-| 11 | 11/09 | 31 |  | Moons |  |
+| 11 | 11/09 | 31 |  | [CLI](./lessons/lesson31-cli.md) |  |
 |  | 11/10 |  |  |  |  |
-|  | 11/11 | 32 | Arvo I |  |  |
+|  | 11/11 | 32 | [Arvo I]((./lessons/lesson32-arvo-1.md)) |  |  |
 |  | 11/12 |  |  |  |  |
-|  | 11/13 | 33 | Ford II |  |  |
+|  | 11/13 | 33 | [Hoon I](./lessons/lesson33-hoon-1.md) |  |  |
 |  | 11/14 |  |  |  |  |
 |  | 11/15 |  |  |  |  |
-| 12 | 11/16 | 34 |  | Hoon |  |
+| 12 | 11/16 | 34 |  | [Hoon II](./lessons/lesson34-hoon-2.md) |  |
 |  | 11/17 |  |  |  |  |
-|  | 11/18 | 35 | (buffer lecture) |  |  |
+|  | 11/18 | 35 | [Vere I](./lessons/lesson35-vere-1.md) |  |  |
 |  | 11/19 |  |  |  |  |
-|  | 11/20 | 36 | Vere |  | `mp5` |
+|  | 11/20 | 36 | [Vere II](./lessons/lesson36-vere-2.md) |  | `mp5` |
 |  | 11/21 |  |  |  |  |
 |  | 11/22 |  |  |  |  |
 |  | 11/23 |  |  | (no lab) |  |
@@ -142,25 +142,18 @@ Lessons focus on conceptual or architectural aspects of Urbit, including technic
 |  | 11/27 |  | (no lecture) |  |  |
 |  | 11/28 |  |  |  |  |
 |  | 11/29 |  |  |  |  |
-| 13 | 11/30 | 37 |  | Arvo II |  |
+| 13 | 11/30 | 37 |  | [Arvo II](./lessons/lesson37-arvo-2.md) |  |
 |  | 12/01 |  |  |  |  |
-|  | 12/02 | 38 | Nock I |  |  |
+|  | 12/02 | 38 | [Nock I](./lessons/lesson38-nock-1.md) |  |  |
 |  | 12/03 |  |  |  |  |
-|  | 12/04 | 39 | Nock II |  |  |
+|  | 12/04 | 39 | [Nock II](./lessons/lesson39-nock-2.md) |  |  |
 |  | 12/05 |  |  |  |  |
 |  | 12/06 |  |  |  |  |
-| 14 | 12/07 | 40 |  | Azimuth II |  |
+| 14 | 12/07 | 40 |  | [Azimuth II](./lessons/lesson40-azimuth-2.md) |  |
 |  | 12/08 |  |  |  |  |
-|  | 12/09 | 41 | Final Thoughts |  |  |
+|  | 12/09 | 41 | [Final Thoughts](./lessons/lesson41-final-thoughts.md) |  |  |
 |  | 12/10 |  |  |  |  |
 |  | 12/11 |  |  |  | `mp6` |
-|  | 12/12 |  |  |  |  |
-|  | 12/13 |  |  |  |  |
-| 15 | 12/14 |  |  |  |  |
-|  | 12/15 |  |  |  |  |
-|  | 12/16 |  |  |  |  |
-|  | 12/17 |  |  |  |  |
-|  | 12/18 |  |  |  | `bonus` |
 
 
 ### MPs
