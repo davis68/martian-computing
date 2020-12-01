@@ -70,11 +70,11 @@ Lessons focus on conceptual or architectural aspects of Urbit, including technic
 | 9 | 10/26 | 25 |  | [Gall II](./lessons/lesson25-gall-2.md) |  |
 |  | 10/28 | 26 | [Gall III](./lessons/lesson26-gall-3.md) |  |  |
 |  | 10/30 | 27 | [Ames](./lessons/lesson27-ames.md) |  |  |
-| 10 | 11/02 | 28 |  | [Eyre & Iris]((./lessons/lesson28-eyre-iris.md)) |  |
+| 10 | 11/02 | 28 |  | [Eyre & Iris](./lessons/lesson28-eyre-iris.md) |  |
 |  | 11/04 | 29 | [Gall IV](./lessons/lesson29-gall-4-communication.md) |  |  |
 |  | 11/06 | 30 | [Boot Process](./lessons/lesson30-boot-process.md) |  | `mp4` |
 | 11 | 11/09 | 31 |  | [CLI](./lessons/lesson31-cli.md) |  |
-|  | 11/11 | 32 | [Arvo I]((./lessons/lesson32-arvo-1.md)) |  |  |
+|  | 11/11 | 32 | [Arvo I](./lessons/lesson32-arvo-1.md) |  |  |
 |  | 11/13 | 33 | [Hoon I](./lessons/lesson33-hoon-1.md) |  |  |
 | 12 | 11/16 | 34 |  | [Hoon II](./lessons/lesson34-hoon-2.md) |  |
 |  | 11/18 | 35 | [Vere I](./lessons/lesson35-vere-1.md) |  |  |
