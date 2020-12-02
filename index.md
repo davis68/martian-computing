@@ -60,16 +60,16 @@ Lessons focus on conceptual or architectural aspects of Urbit, including technic
 |  | 10/02 | 15 | [Standard Library](./lessons/lesson15-stdlib.md) |  |  |
 | 6 | 10/05 | 16 |  | [Common Containers](./lessons/lesson16-containers.md) |  |
 |  | 10/07 | 17 | [Gall I](./lessons/lesson17-gall-1.md) |  |  |
-|  | 10/09 | 18 | [Kernel](./lessons/lesson18-kernel.md) |  | `mp2` |
+|  | 10/09 | 18 | [Kernel](./lessons/lesson18-kernel.md) (Chat with `~rovnys-ricfer`) |  | `mp2` |
 | 7 | 10/12 | 19 |  | [Data & Text Parsing](./lessons/lesson19-text-parsing.md) |  |
 |  | 10/14 | 20 | [Ames](./lessons/lesson20-ames.md) |  |  |
 |  | 10/16 | 21 | [Behn](./lessons/lesson21-behn.md) |  |  |
 | 8 | 10/19 | 22 |  | [Clay II](./lessons/lesson22-clay-2.md) |  |
 |  | 10/21 | 23 | [Polymorphism](./lessons/lesson23-polymorphism.md) |  |  |
-|  | 10/23 | 24 | [Urbit Foundation](./lessons/lesson24-foundation.md) |  | `mp3` |
+|  | 10/23 | 24 | [Urbit Foundation](./lessons/lesson24-foundation.md) (Chat with `~wolref-podlex`) |  | `mp3` |
 | 9 | 10/26 | 25 |  | [Gall II](./lessons/lesson25-gall-2.md) |  |
-|  | 10/28 | 26 | [Gall III](./lessons/lesson26-gall-3.md) |  |  |
-|  | 10/30 | 27 | [Ames](./lessons/lesson27-ames.md) |  |  |
+|  | 10/28 | 26 | [Gall III](./lessons/lesson26-gall-3-landscape.md) |  |  |
+|  | 10/30 | 27 | Buffer |  |  |
 | 10 | 11/02 | 28 |  | [Eyre & Iris](./lessons/lesson28-eyre-iris.md) |  |
 |  | 11/04 | 29 | [Gall IV](./lessons/lesson29-gall-4-communication.md) |  |  |
 |  | 11/06 | 30 | [Boot Process](./lessons/lesson30-boot-process.md) |  | `mp4` |
@@ -85,16 +85,3 @@ Lessons focus on conceptual or architectural aspects of Urbit, including technic
 | 14 | 12/07 | 40 |  | [Azimuth II](./lessons/lesson40-azimuth-2.md) |  |
 |  | 12/09 | 41 | [Final Thoughts](./lessons/lesson41-final-thoughts.md) |  |  |
 |  | 12/11 |  |  |  | `mp6` |
-
-
-### MPs
-
-| **MP** | **Description**         |
-| ----- | ------------------------ |
-| `mp0` | Write naked generators. |
-| `mp1` | Write `%say` generators. |
-| `mp2` | Write `%ask` generators. |
-| `mp3` | Write a basic Gall app. |
-| `mp4` | Write a Landscape tile and a Clay mark |
-| `mp5` | Write a full library with testing suite |
-| `mp6` | Decompile Nock code |
