@@ -59,7 +59,7 @@ Rule One is a constant reduction, returning the bare value `b`.
 *[a 2 b c]          *[*[a b] *[a c]]
 ```
 
-Rule Two resolves `b` and `c` against the subject, then computes with the result of `b` as the subject of formula `c`.  (`*` is the Nock interpreter with the head of the cell being the su)bject and the tail of the cell being the formula.
+Rule Two resolves `b` and `c` against the subject, then computes with the result of `b` as the subject of formula `c`.  (`*` is the Nock interpreter with the head of the cell being the subject and the tail of the cell being the formula.)
 
 ```nock
 *[a 3 b]            ?*[a b]
