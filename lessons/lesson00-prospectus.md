@@ -185,7 +185,7 @@ In this light, when we talk about Urbit we talk about three things:
 
 (I often think of [the hypothetical structure of Jupiter](https://en.wikipedia.org/wiki/Jupiter#Internal_structure):  clouds over a sea of metallic hydrogen over a diamond as big as Earth.)
 
-- Reading: [Curtis Yarvin `~sorreg-namtyv` & Galen Wolfe-Pauly `-ravmel-ropdyl`, "Towards a Frozen Operating System"](https://urbit.org/posts/toward-a-frozen-operating-system/)
+- Reading: [Curtis Yarvin `~sorreg-namtyv` & Galen Wolfe-Pauly `-ravmel-ropdyl`, "Towards a Frozen Operating System"](https://urbit.org/blog/toward-a-frozen-operating-system/)
 - Reading: [Paul Graham, "The Hundred-Year Language"](http://www.paulgraham.com/hundred.html)
 - Optional Reading: [Jared Tobin `~nidsut-tomdun`, "UP9: Kelvin Versioning for Arvo"](https://groups.google.com/a/urbit.org/forum/#!topic/dev/6Mwn6TQFVwc) (the first email in the thread)
 - Optional Reading: [Peter Bhat Harkins, "Finished Libraries"](https://push.cx/2015/finished-libraries)
