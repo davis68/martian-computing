@@ -91,7 +91,7 @@ We can classify a testing regimen into various layers:
 
 3.  Integration tests check on how well your new or updated code integrates with the broader system.  These can be included in continuous integration (CI) frameworks like Circle or Travis-CI.  The Arvo ecosystem isn't large enough for developers outside the kernel itself to worry about this yet.
 
-- Reading: [Tlon Corporation, "Unit Testing with Ford"](https://web.archive.org/web/20200614210451/https://urbit.org/docs/tutorials/hoon/test-sets/)
+- Reading: [Tlon Corporation, "Unit Testing with Ford"](https://web.archive.org/web/20200614210451/https://urbit.org/docs/hoon/hoon-school/test-sets/)
 
 
 ##  Ford Runes

@@ -69,6 +69,6 @@ The `generators` library lives in `%home/lib/generators/hoon`.  Unsurprisingly, 
 
 You are primarily interested in employing `++print`, `++prompt`, and `++produce`, all of which are reasonably demonstrated in the example code above and in the documentation.  (Also not `++curl`.)
 
-- Reading: [Tlon Corporation, "Generators"](https://urbit.org/docs/tutorials/hoon/hoon-school/generators/), section "`%ask` Generators"
+- Reading: [Tlon Corporation, "Generators"](https://urbit.org/docs/hoon/hoon-school/generators/), section "`%ask` Generators"
 
 ![](../img/13-header-neptune.png)

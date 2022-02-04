@@ -127,7 +127,7 @@ A simple command parser could look like this:
   (perk %demo %row %table ~)
 ```
 
-`nail`, `++like`, `stag`, and `++perk` are all parsing rule concepts. Parsing rules are complex but can be reviewed in the [text parsing tutorial](https://urbit.org/docs/tutorials/hoon/parsing/).
+`nail`, `++like`, `stag`, and `++perk` are all parsing rule concepts. Parsing rules are complex but can be reviewed in the [text parsing tutorial](https://urbit.org/docs/hoon/guides/parsing).
 
 Once you have a working app, you can use `|link` to connect to it at the console.  Switch to it using `Ctrl`+`X`.  (`|unlink` does the opposite.)
 
@@ -140,7 +140,7 @@ What could you make with a command-line app?  Some ideas:
 
 The sky's the limit!
 
-- Reading: [Tlon Corporation, "CLI apps"](https://urbit.org/docs/tutorials/hoon/cli-tutorial/)
+- Reading: [Tlon Corporation, "CLI apps"](https://urbit.org/docs/hoon/guides/cli-tutorial)
 - Optional Reading: [Tlon Corporation, `lib/shoe.hoon`](https://github.com/urbit/urbit/blob/master/pkg/arvo/lib/shoe.hoon)
 - Optional Reading: [`~hosbud-socbur`, `ed`](https://github.com/crides/ed.hoon)
 

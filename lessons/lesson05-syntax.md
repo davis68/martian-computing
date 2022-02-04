@@ -125,9 +125,9 @@ Let's reconsider the binary tree from before:
 
 Every structure being a binary tree, certain common structures arise which contain data at particular addresses.  Most generally, all structures in Hoon are _cores_, which are cells containing a _battery_ and a _payload_, `[battery payload]`.  The battery generally describes "what to do", like methods in an object, while the payload describes "what it is", the actual data.  In common structures, sometimes these take specific names other than battery and payload, but learn to always see these parts in any new structure you encounter in the kernel.
 
-- Reading: [Tlon Corporation, "Nouns"](https://urbit.org/docs/tutorials/hoon/nouns/) (search for "tree" and read those sections)
+- Reading: [Tlon Corporation, "Nouns"](https://urbit.org/docs/hoon/hoon-school/nouns/) (search for "tree" and read those sections)
 - Optional Reading: [Tlon Corporation, "Tree Addressing"](https://urbit.org/docs/reference/library/1b/) (to get the flavor of accessing and manipulating trees)
-- Optional Reading: [Tlon Corporation, "The Subject and Its Legs"](https://urbit.org/docs/tutorials/hoon/the-subject-and-its-legs/), section "Lark Expressions"
+- Optional Reading: [Tlon Corporation, "The Subject and Its Legs"](https://urbit.org/docs/hoon/hoon-school/the-subject-and-its-legs/), section "Lark Expressions"
 
 ![Robert McCall, Rendition of Apollo–Soyuz Encounter](../img/05-header-mccall-2.png)
 
@@ -169,7 +169,7 @@ When you are looking up a rune in the docs, you should search "kethep" instead o
 
 ![](../img/05-hoon-pronunciation.png)
 
-(There is [a chart in the docs](https://urbit.org/docs/tutorials/hoon/hoon-syntax/) which has an alphabetically-ordered equivalent if you prefer.)
+(There is [a chart in the docs](https://urbit.org/docs/hoon/hoon-school/hoon-syntax/) which has an alphabetically-ordered equivalent if you prefer.)
 
 ![Robert McCall, Rendition of Apollo–Soyuz Encounter](../img/05-header-mccall-4.png)
 
@@ -211,7 +211,7 @@ Good Hoon style also mandates backstep indentation, which counters the tendency 
 (ceil a)
 ```
 
-- Optional Reading: [Tlon Corporation, "Hoon Style Guide"](https://urbit.org/docs/tutorials/hoon/style/)
+- Optional Reading: [Tlon Corporation, "Hoon Style Guide"](https://urbit.org/docs/hoon/reference/style)
 
 
 ##  Efficiency

@@ -114,7 +114,7 @@ A user can designate any custom aura, but the pretty-printer only knows about th
 `@z`(add 1 a)
 ```
 
-- Reading: [Tlon Corporation, "1.2 Nouns", sections "Atoms" through "Casting to Other Auras"](https://urbit.org/docs/tutorials/hoon/nouns/)
+- Reading: [Tlon Corporation, "1.2 Nouns", sections "Atoms" through "Casting to Other Auras"](https://urbit.org/docs/hoon/hoon-school/nouns/)
 
 ##  Aura-Related Errors
 

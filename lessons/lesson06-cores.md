@@ -104,8 +104,8 @@ For instance, for a gate, the parent core is the subject.  That is, with `[$ [sa
 
 See the Subject-Oriented Language lesson for a deeper dive.
 
--   Reading: [Tlon Corporation, "The Subject and Its Legs", section "A Start"](https://urbit.org/docs/tutorials/hoon/hoon-school/the-subject-and-its-legs/), section "A Start"
--   Reading: [Tlon Corporation, "Gates"](https://urbit.org/docs/tutorials/hoon/hoon-school/gates/), section "What is a Gate?"
+-   Reading: [Tlon Corporation, "The Subject and Its Legs", section "A Start"](https://urbit.org/docs/hoon/hoon-school/the-subject-and-its-legs/), section "A Start"
+-   Reading: [Tlon Corporation, "Gates"](https://urbit.org/docs/hoon/hoon-school/gates/), section "What is a Gate?"
 
 ### Faces
 
@@ -164,7 +164,7 @@ i=~.hello
 ~.hello
 ```
 
-- Reading: [Tlon Corporation, "The Subject and Its Legs"](https://urbit.org/docs/tutorials/hoon/hoon-school/the-subject-and-its-legs/), sections "Faces" and "Duplicate Faces"
+- Reading: [Tlon Corporation, "The Subject and Its Legs"](https://urbit.org/docs/hoon/hoon-school/the-subject-and-its-legs/), sections "Faces" and "Duplicate Faces"
 
 ### Vases
 

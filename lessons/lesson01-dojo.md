@@ -66,7 +66,7 @@ You've seen `|mount` and `|commit` already, which coordinate the "external" file
 
 As mentioned, Hoon:Urbit::C:Unix.  Similar to how C compiles to assembler for execution, Hoon is a macro language on top of a simple Turing-complete language called Nock.
 
-Urbit is a "subject-oriented" system.  Right now, what that means to you is that rather than an environment stack, Urbit has a nested tree of values:  _everything_ in Urbit is a binary tree.  The [docs](https://urbit.org/docs/tutorials/hoon/the-subject-and-its-legs/) explain this thus:  "every Hoon expression is evaluated relative to some subject, [and] roughly, the subject defines the environment in which a Hoon expression is evaluated."
+Urbit is a "subject-oriented" system.  Right now, what that means to you is that rather than an environment stack, Urbit has a nested tree of values:  _everything_ in Urbit is a binary tree.  The [docs](https://urbit.org/docs/hoon/hoon-school/the-subject-and-its-legs/) explain this thus:  "every Hoon expression is evaluated relative to some subject, [and] roughly, the subject defines the environment in which a Hoon expression is evaluated."
 
 For a userspace program, the subject is Zuse, the standard library (which wraps around Arvo and Hoon).  Dojo provides a slightly broader subject with some convenience features built in to ease programming.  Any Hoon expression (or hoon) evaluates to a tree, wherein each operation is a macro reducing ultimately to Nock.  Hoon is written using "runes," a lapidary composition technique which emphasizes program structure.
 

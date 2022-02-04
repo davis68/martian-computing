@@ -51,10 +51,10 @@ ford: %ride failed to compute type:
 <|d e f|>
 ```
 
-- Reading: [Tlon Corporation, "Molds"](https://urbit.org/docs/tutorials/hoon/hoon-school/molds/)
+- Reading: [Tlon Corporation, "Molds"](https://urbit.org/docs/hoon/hoon-school/molds/)
 - Reading: [Tlon Corporation, "1c Molds and Mold Builders"](https://urbit.org/docs/reference/library/1c/)
-- Reading: [Tlon Corporation, "Type Checking and Type Inference"](https://urbit.org/docs/tutorials/hoon/hoon-school/type-checking-and-type-inference/)
-- Reading: [Tlon Corporation, "Structures and Complex Types"](https://urbit.org/docs/tutorials/hoon/hoon-school/structures-and-complex-types/)
+- Reading: [Tlon Corporation, "Type Checking and Type Inference"](https://urbit.org/docs/hoon/hoon-school/type-checking-and-type-inference/)
+- Reading: [Tlon Corporation, "Structures and Complex Types"](https://urbit.org/docs/hoon/hoon-school/structures-and-complex-types/)
 
 I recommend that you review section Vases in Cores as well.
 
@@ -101,7 +101,7 @@ HOWEVER, dry cores can differ in their variance models.
 
 In practice, gold and iron cores are commonly seen; I've observed far fewer zinc and lead gates in the wild.  Gates constructed with `|` bar runes can be converted using some of the `&` pam runes.
 
-- Reading: [Tlon Corporation, "Type Polymorphism"](https://urbit.org/docs/tutorials/hoon/hoon-school/type-polymorphism/), sections "Dry Cores" and "The Four Kinds of Cores"
+- Reading: [Tlon Corporation, "Type Polymorphism"](https://urbit.org/docs/hoon/hoon-school/type-polymorphism/), sections "Dry Cores" and "The Four Kinds of Cores"
 - Reading: [Tlon Corporation, "Advanced Types"](https://urbit.org/docs/reference/hoon-expressions/advanced/), sections on dry gates in "`%core` Advanced Polymorphism"
 
 We will discuss wet gates in Polymorphism.
