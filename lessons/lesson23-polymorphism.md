@@ -60,8 +60,8 @@ As a consequence, wet arms and wet cores behave a bit like C++ overloaded operat
 One thing to watch is that `|%` barcen produces dry cores, thus dry arms.  To produce a wet core, you need to use [`|@` barpat](https://urbit.org/docs/reference/hoon-expressions/rune/bar/#barpat) instead.
 
 - Reading: [Tlon Corporation, "Advanced Types"](https://urbit.org/docs/reference/hoon-expressions/advanced/)
-- Reading: [Tlon Corporation, "Iron Polymorphism"](https://urbit.org/docs/tutorials/hoon/hoon-school/iron-polymorphism/)
-- Reading: [Tlon Corporation, "Lead Polymorphism"](https://urbit.org/docs/tutorials/hoon/hoon-school/lead-polymorphism/) <!-- TODO move -->
+- Reading: [Tlon Corporation, "Iron Polymorphism"](https://urbit.org/docs/hoon/hoon-school/iron-polymorphism/)
+- Reading: [Tlon Corporation, "Lead Polymorphism"](https://urbit.org/docs/hoon/hoon-school/lead-polymorphism/) <!-- TODO move -->
 
 
 ##  Type Constructors
@@ -119,8 +119,8 @@ Now we're ready to build a unique Pokémon instance:
 
 [Here is a full implementation of the above as a single generator.](../resources/pokemon.hoon)
 
-- Reading: [Tlon Corporation, "Structures and Complex Types"](https://urbit.org/docs/tutorials/hoon/hoon-school/structures-and-complex-types/)
-- Reading: [Tlon Corporation, "Type Polymorphism"](https://urbit.org/docs/tutorials/hoon/hoon-school/type-polymorphism/)
+- Reading: [Tlon Corporation, "Structures and Complex Types"](https://urbit.org/docs/hoon/hoon-school/structures-and-complex-types/)
+- Reading: [Tlon Corporation, "Type Polymorphism"](https://urbit.org/docs/hoon/hoon-school/type-polymorphism/)
 
 _All art by Robert McCall._
 

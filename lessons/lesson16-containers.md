@@ -88,7 +88,7 @@ To change or insert an entry, use the `++put` arm:
 
 (This _returns_ a changed copy; it doesn't alter the original dictionary.)
 
-- Reading: [Tlon Corporation, "Trees, Sets, and Maps"](https://urbit.org/docs/tutorials/hoon/hoon-school/trees-sets-and-maps/)
+- Reading: [Tlon Corporation, "Trees, Sets, and Maps"](https://urbit.org/docs/hoon/hoon-school/trees-sets-and-maps/)
 - Reading: [Tlon Corporation, "Map Logic"](https://urbit.org/docs/reference/library/2i/)
 
 ### Sets
@@ -170,7 +170,7 @@ That produces a list.  If you want to preserve having a map, use `++urn`:
 
 The bomb defusing exercise is a great refresher before we start on Gall next time.  It also uses some of the container logic we developed above.
 
-- Reading: [Tlon Corporation, "Hoon Workbook:  Bomb Defusing"](https://urbit.org/docs/tutorials/hoon/workbook/bomb/)
+- Reading: [Tlon Corporation, "Hoon Workbook:  Bomb Defusing"](https://web.archive.org/web/20210315072208/https://urbit.org/docs/tutorials/hoon/workbook/bomb/)
 
 Dawid Ciezarkiewicz `~napter-matnep` has been working on a Hoon introduction, which may be worth your while to peruse as an alternative explanation of many elementary concepts in Hoon.
 

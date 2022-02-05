@@ -137,8 +137,8 @@ Since there are no formal side effects in purely functional Hoon, there is a hin
 ~&  (add 1 1.000)
 ```
 
-- Reading: [Tlon Corporation, "Walkthrough:  List of Numbers"](https://urbit.org/docs/tutorials/hoon/list-of-numbers/)
-- Reading: [Tlon Corporation, "Gates"](https://urbit.org/docs/tutorials/hoon/gates/) (you should complete the exercises there as well)
+- Reading: [Tlon Corporation, "Walkthrough:  List of Numbers"](https://urbit.org/docs/hoon/hoon-school/list-of-numbers)
+- Reading: [Tlon Corporation, "Gates"](https://urbit.org/docs/hoon/hoon-school/gates) (you should complete the exercises there as well)
 
 
 ##  Generators
@@ -264,8 +264,8 @@ it can be imported for use in another generator `home/gen/abs.hoon` as
 
 and used in Dojo as `+abs .-5`
 
-- Reading: [Tlon Corporation, "Generators"](https://urbit.org/docs/tutorials/hoon/generators/), section "Naked Generators"
-- Reading: [Tlon Corporation, "Walkthrough:  Recursion"](https://urbit.org/docs/tutorials/hoon/recursion/) (note in particular the better way to carry out recursion)
+- Reading: [Tlon Corporation, "Generators"](https://urbit.org/docs/hoon/hoon-school/generators#naked-generators), section "Naked Generators"
+- Reading: [Tlon Corporation, "Walkthrough:  Recursion"](https://urbit.org/docs/hoon/hoon-school/recursion/) (note in particular the better way to carry out recursion)
 
 ##  Pronouncing Hoon
 

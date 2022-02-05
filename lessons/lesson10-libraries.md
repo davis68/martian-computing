@@ -218,7 +218,7 @@ Most of the time, `++expect-eq` is the only arm used.  `++expect-fail` works a b
 
 ##  Hoon Style
 
-It's time for you to read and absorb the [authoritative Hoon style guide](https://urbit.org/docs/tutorials/hoon/style/).  All code you produce subsequently should hew to it, particularly the informal comments.  (It will take us a while yet in this course to get to the point where formal comments are worth the trouble.)
+It's time for you to read and absorb the [authoritative Hoon style guide](https://urbit.org/docs/hoon/reference/style).  All code you produce subsequently should hew to it, particularly the informal comments.  (It will take us a while yet in this course to get to the point where formal comments are worth the trouble.)
 
 It's worth noting that I have a few minor quibbles on style:
 
@@ -251,7 +251,7 @@ For instance, here are samples from some library code I have written, which adhe
 
 How would you rewrite these code snippets in fully-compliant style?
 
-- Reading: [Tlon Corporation, "Hoon Style Guide"](https://urbit.org/docs/tutorials/hoon/style/)
+- Reading: [Tlon Corporation, "Hoon Style Guide"](https://urbit.org/docs/hoon/reference/style)
 
 
 ##  A Word of Encouragement

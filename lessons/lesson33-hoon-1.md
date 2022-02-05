@@ -111,7 +111,7 @@ Because Hoon rigorously defines all symbols and their interpretations (as does L
 
 The Hoon parser is `++vast`, with the regular form in `++structure:norm:vast` and irregular form in `++scat:vast` and `++scad:vast`.
 
-- Reading:  [Tlon Corporation, "Parsing in Hoon"](https://urbit.org/docs/tutorials/hoon/parsing/)
+- Reading:  [Tlon Corporation, "Parsing in Hoon"](https://urbit.org/docs/hoon/guides/parsing)
 - Reading:  `hoon.hoon`, `++vast` arm
 
 

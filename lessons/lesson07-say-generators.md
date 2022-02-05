@@ -121,7 +121,7 @@ Since the default value is `~`, if you are testing for the presence of named arg
 
 Note that, in all of these cases, you are writing a gate `|=` bartis which accepts `[* * ~]` or the like as sample.  Dojo (and Arvo generally) recognizes that `%say` generators have a special format and parse the command-line form into appropriate form for the gate itself.
 
-- Reading: [Tlon Corporation, "Generators"](https://urbit.org/docs/tutorials/hoon/generators/), sections "%say Generators", "%say generators with arguments", "Arguments without a cell"
+- Reading: [Tlon Corporation, "Generators"](https://urbit.org/docs/hoon/hoon-school/generators/), sections "%say Generators", "%say generators with arguments", "Arguments without a cell"
 
 ##  Worked Examples
 
@@ -262,8 +262,8 @@ The following Hoon Workbook examples walk you line-by-line through several `%say
 
 The traffic light example is furthermore an excellent prelude to our entrée to Gall.
 
-- Reading: [Tlon Corporation, "Hoon Workbook:  Digits"](https://urbit.org/docs/tutorials/hoon/workbook/digits/)
-- Reading: [Tlon Corporation, "Hoon Workbook:  Magic 8-Ball"](https://urbit.org/docs/tutorials/hoon/workbook/eightball/)
-- Reading: [Tlon Corporation, "Hoon Workbook:  Traffic Light"](https://urbit.org/docs/tutorials/hoon/workbook/traffic-light/)
+- Reading: [Tlon Corporation, "Hoon Workbook:  Digits"](https://web.archive.org/web/20210315002509/https://urbit.org/docs/tutorials/hoon/workbook/digits/)
+- Reading: [Tlon Corporation, "Hoon Workbook:  Magic 8-Ball"](https://web.archive.org/web/20210315002732/https://urbit.org/docs/tutorials/hoon/workbook/eightball/)
+- Reading: [Tlon Corporation, "Hoon Workbook:  Traffic Light"](https://web.archive.org/web/20210315032448/https://urbit.org/docs/tutorials/hoon/workbook/traffic-light/)
 
 ![](../img/07-header-apollo-3.png)

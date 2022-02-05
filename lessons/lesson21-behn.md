@@ -73,7 +73,7 @@ Behn is used commonly in the kernel to maintain the system state, in particular 
 
 > `%eyre` uses `%behn` for timing out sessions, and `%clay` uses `%behn` for keeping track of time-specified file requests.
 
-- Reading: [Tlon Corporation, "Behn Tutorial"](https://urbit.org/docs/tutorials/hoon/hoon-school/behn/)
+- Reading: [Tlon Corporation, "Behn Tutorial"](https://urbit.org/docs/hoon/hoon-school/behn/)
 - Reading: [`behn.hoon`](https://github.com/urbit/urbit/blob/master/pkg/arvo/sys/vane/behn.hoon)
 
 ![](../img/21-mccall-1.png)
@@ -85,7 +85,7 @@ _All art by Robert McCall._
 
 ##  A Minimalist Gall App
 
-Return again to the [`egg-timer` app tutorial](https://urbit.org/docs/tutorials/hoon/hoon-school/egg-timer/).
+Return again to the [`egg-timer` app tutorial](https://urbit.org/docs/hoon/hoon-school/egg-timer/).
 
 You may start the Gall app using `|start %egg-timer` and poke it using a relative time such as `:egg-timer ~s10`.
 

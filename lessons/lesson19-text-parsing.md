@@ -91,7 +91,7 @@ One of the most straightforward tools to use with text is [`++trim`](https://urb
   $(in-words +:values, out-words (weld out-words ~[-:values]))
 ```
 
-- Optional Reading: [Tlon Corporation, "Parsing Hoon"](https://urbit.org/docs/tutorials/hoon/parsing/#parsing-arithmetic-expressions), section "Parsing Arithmetic Expressions"
+- Optional Reading: [Tlon Corporation, "Parsing Hoon"](https://urbit.org/docs/hoon/guides/parsing#parsing-arithmetic-expressions), section "Parsing Arithmetic Expressions"
 
 
 ### Sail & XML Parsing

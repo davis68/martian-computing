@@ -60,7 +60,7 @@ A minimalist do-nothing default Gall app could look like this:
 ++  on-fail   on-fail:default
 ```
 
-- Reading: [Tlon Corporation, "Gall"](https://urbit.org/docs/tutorials/hoon/hoon-school/gall/)
+- Reading: [Tlon Corporation, "Gall"](https://urbit.org/docs/hoon/hoon-school/gall/)
 - Reading: [Tlon Corporation, "Gall Tutorial"](https://urbit.org/docs/tutorials/arvo/gall/)
 
 
@@ -102,7 +102,7 @@ Report the list of possible move tokens for that Gall app under the `+$command` 
 
 ##  A Minimalist Gall App
 
-Complete the [`egg-timer` app tutorial](https://urbit.org/docs/tutorials/hoon/hoon-school/egg-timer/).
+Complete the [`egg-timer` app tutorial](https://urbit.org/docs/hoon/hoon-school/egg-timer/).
 
 You may start the Gall app using `|start %egg-timer` and poke it using a relative time such as `:egg-timer ~s10`.
 
