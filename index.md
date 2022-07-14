@@ -12,6 +12,8 @@ Our primary objectives in this course are for you to be able to explain and navi
 - Program literately using the Hoon language, including source code conventions and interoperability.
 - Construct userspace apps to run on the Urbit OS platform (Gall, Landscape).
 
+**Since January 2022, I have been working with the Urbit Foundation to produce more up-to-date developer education resources.  This course has largely been superseded by the [Hoon School and App School guides](https://developers.urbit.org/guides/core).  I will leave it up for historical documentation, but you shouldn't rely on any part of the presentation without checking contemporary developments.**
+
 
 ##  Audience
 
